@@ -1,3 +1,7 @@
+tellive
+A Vue.js project
+
+Build Setup
 # install dependencies
 npm install
 
@@ -9,3 +13,4 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+For a detailed explanation on how things work, check out the guide and docs for vue-loader.
